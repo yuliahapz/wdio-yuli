@@ -1,0 +1,11 @@
+[90m2024-05-03T17:54:51.389Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m username/accesskey not passed
+[90m2024-05-03T17:54:51.390Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m app is not defined in browserstack-service config, skipping ...
+[90m2024-05-03T17:54:51.409Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Sending launch start event
+[90m2024-05-03T17:54:51.432Z[39m [31mERROR[39m [97m@wdio/browserstack-service[39m Data upload to BrowserStack Test Observability failed due to RequestError: Expected value which is `string`, received value of type `undefined`.
+[90m2024-05-03T17:54:51.434Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m browserstackLocal is not enabled - skipping...
+[90m2024-05-03T17:54:53.212Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Inside OnComplete hook..
+[90m2024-05-03T17:54:53.212Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Sending stop launch event
+[90m2024-05-03T17:54:53.213Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m username/accesskey not passed
+[90m2024-05-03T17:54:53.213Z[39m [96mINFO[39m [97m@wdio/browserstack-service[39m If facing any issues, please contact BrowserStack support with the Build Run Id - 4d621a81-4ff0-440b-9d56-28142e4277a5
+[90m2024-05-03T17:54:53.213Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Uploading logs failed due to no credentials
+[90m2024-05-03T17:54:53.214Z[39m [32mDEBUG[39m [97m@wdio/browserstack-service[39m Response - undefined
